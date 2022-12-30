@@ -48,7 +48,7 @@
     "css-loader": "^3.2.0",
     "emoji.json": "^12.1.0",
     "external-svg-sprite-loader": "^5.0.1",
-    "fast-json-patch": "^2.1.0",
+    "fast-json-patch": "^3.1.1",
     "flag-icon-css": "^3.3.0",
     "font-awesome": "^4.7.0",
     "hoverintent": "^2.2.1",
